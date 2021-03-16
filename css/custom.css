@@ -1,0 +1,42 @@
+.container {
+  min-height: calc(100vh - 100px - 50px);
+}
+
+.la {
+  font-size: 24px;
+}
+
+body {
+    font-family: josefin sans,-apple-system,BlinkMacSystemFont,helvetica neue,pingfang sc,hiragino sans gb,STHeiti,microsoft yahei,wenquanyi micro hei,Arial,Verdana,sans-serif
+}
+
+h1,h2,h3,h4,h5,h6 {
+    /* font-family: raleway,sans-serif; */
+    line-height: 1.2;
+    color: #333;
+    font-weight: 200;
+}
+
+h1 {
+    font-size: 2rem;
+}
+
+h2 {
+    font-size: 1.6rem;
+}
+
+h3 {
+    font-size: 1.2rem;
+}
+
+h4 {
+    font-size: 1rem;
+}
+
+h5 {
+    font-size: .9rem;
+}
+
+h6 {
+    font-size: .75rem
+}
