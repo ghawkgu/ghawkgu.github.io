@@ -2,28 +2,28 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>温水泳池</title>
-    <link>https://ghawkgu.github.io/</link>
+    <link>https://yigu.me/</link>
     <description>Recent content on 温水泳池</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
     <copyright>© 2021 Yi Gu</copyright>
-    <lastBuildDate>Mon, 15 Mar 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://ghawkgu.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 15 Mar 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://yigu.me/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About</title>
-      <link>https://ghawkgu.github.io/about/</link>
+      <link>https://yigu.me/about/</link>
       <pubDate>Mon, 15 Mar 2021 23:36:00 +0900</pubDate>
       
-      <guid>https://ghawkgu.github.io/about/</guid>
+      <guid>https://yigu.me/about/</guid>
       <description>.about-info li { list-style: none; } .about-info li a { margin-left: 0.5em; vertical-align: text-bottom; }  Contact me:
  ghawk.</description>
     </item>
     
     <item>
       <title>再次尝试原地复活</title>
-      <link>https://ghawkgu.github.io/posts/000/</link>
+      <link>https://yigu.me/posts/000/</link>
       <pubDate>Mon, 15 Mar 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://ghawkgu.github.io/posts/000/</guid>
+      <guid>https://yigu.me/posts/000/</guid>
       <description>之前的博客拖更长草疏于打理，早些年就黄了</description>
     </item>
     
